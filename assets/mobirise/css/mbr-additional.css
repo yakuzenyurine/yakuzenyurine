@@ -1383,13 +1383,13 @@ body {
   }
 }
 .cid-r4hnoHYpU2 .navbar {
-  background: #ffffff;
+  background: #efefef;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-r4hnoHYpU2 .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #efefef;
 }
 .cid-r4hnoHYpU2 a {
   font-style: normal;
@@ -1473,7 +1473,7 @@ body {
   padding-bottom: 0;
 }
 .cid-r4hnoHYpU2 .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #efefef;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2010,13 +2010,13 @@ body {
   color: #767676;
 }
 .cid-r4hnoHYpU2 .navbar {
-  background: #ffffff;
+  background: #efefef;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-r4hnoHYpU2 .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #efefef;
 }
 .cid-r4hnoHYpU2 a {
   font-style: normal;
@@ -2100,7 +2100,7 @@ body {
   padding-bottom: 0;
 }
 .cid-r4hnoHYpU2 .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #efefef;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2822,6 +2822,11 @@ body {
 @media (min-width: 992px) {
   .cid-riwP1pjlTq .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+  .cid-riwP1pjlTq .media-container-row {
+    -webkit-flex-direction: row-reverse;
   }
 }
 @media (max-width: 991px) {
@@ -2829,6 +2834,13 @@ body {
     padding-right: 0;
     padding-bottom: 1rem;
     margin-bottom: 2rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 1rem;
+    margin-top: 2rem;
+  }
+  .cid-riwP1pjlTq .media-container-row {
+    -webkit-flex-direction: column-reverse;
   }
 }
 @media (max-width: 300px) {
@@ -2840,13 +2852,13 @@ body {
   text-align: left;
 }
 .cid-r4hnoHYpU2 .navbar {
-  background: #ffffff;
+  background: #efefef;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-r4hnoHYpU2 .navbar-dropdown.bg-color.transparent.opened {
-  background: #ffffff;
+  background: #efefef;
 }
 .cid-r4hnoHYpU2 a {
   font-style: normal;
@@ -2930,7 +2942,7 @@ body {
   padding-bottom: 0;
 }
 .cid-r4hnoHYpU2 .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #efefef;
   display: none;
   position: absolute;
   min-width: 5rem;
