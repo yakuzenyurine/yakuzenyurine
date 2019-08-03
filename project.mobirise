@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Yakuzen (mob4)",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3562,7 +3562,7 @@
               "color": "#767676"
             },
             "P": {
-              "color": "#000000"
+              "color": "#232323"
             },
             "H1": {
               "color": "#465052"
