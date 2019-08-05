@@ -40,7 +40,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.2",
     "siteFonts": [],
-    "uniqCompNum": 76,
+    "uniqCompNum": 81,
     "versionPublish": "4.10.6",
     "screenshot": "screenshot.png"
   },
@@ -883,7 +883,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Yakuzen Yurine",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
